@@ -12,22 +12,17 @@ It's bigsaltyfishes here, I'm a undergrad major in **IOT** Engineering
     - **Rust**
     - **Nix**
 - 🔭 I’m currently working on:
-    - [👷Working On] My persional NixOS Configuration
-    - [👷Working On] MolyuuOS
+    - 🐟Pending
+        - My persional NixOS Configuration
+        - MolyuuOS
+        - Hikari Kernel
+    - 👷Working
+        - Well, since I'm busy these days, currently none yet.
 - 📫 E-Mail:  <a href="bigsaltyfishes@gmail.com">📨 bigsaltyfishes@gmail.com</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
-<!-- <div align="center">
-    <img style="border-radius: 0.3125em;
-        max-height:30%;
-        max-width:30%;
-        width:auto;
-        height:auto;" 
-    src="assets\ferris.gif">
-    <br>
-    <div style="color:orange;
-    display: inline-block;
-    font-weight:600;
-    color: #164456;
-    padding: 2px;">ferris</div>
-</div> -->
+### My GitHub Stats
+
+![bigsaltyfishes's GitHub stats A](https://github-readme-stats.vercel.app/api?username=bigsaltyfishes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![bigsaltyfishes's GitHub stats B](https://github-readme-stats.vercel.app/api/top-langs/?username=bigsaltyfishes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
