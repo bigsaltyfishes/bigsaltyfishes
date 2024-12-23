@@ -15,9 +15,8 @@ It's bigsaltyfishes here, I'm a undergrad major in **IOT** Engineering
     - 🐟Pending
         - My persional NixOS Configuration
         - MolyuuOS
-        - Hikari Kernel
     - 👷Working
-        - Well, since I'm busy these days, currently none yet.
+        - Hikari Kernel (Implementing Userspace)
 - 📫 E-Mail:  <a href="bigsaltyfishes@gmail.com">📨 bigsaltyfishes@gmail.com</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
